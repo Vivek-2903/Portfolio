@@ -1,0 +1,12 @@
+#mcanvas{
+    margin-top: -100%;
+    margin-left: 80%;
+    color: white;
+}
+
+@media only screen and (max-width: 768px) {
+    
+    #mcanvas{
+        display: none;
+    }   
+}
